@@ -1,5 +1,5 @@
-from api_key_manager import load_open_ai_key
-from website import Website
+from brochure_generator.api_key_manager import load_open_ai_key
+from brochure_generator.website import Website
 from openai import OpenAI
 import json
 
